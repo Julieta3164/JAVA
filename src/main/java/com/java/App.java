@@ -1,8 +1,6 @@
 package com.java;
 
-/**
- * Hello world!
- */
+
 public final class App {
     private App() {
     }
@@ -10,7 +8,7 @@ public final class App {
 
     public static void main(String[] args) {
         Week week = new Week();
-        System.out.println(week.getDays());
+        week
     }
     
 }
